@@ -33,7 +33,8 @@ The next thing we will do is change our HWID using the HardDiskSerialNumberChang
 (suitable for all types of HDD, SSD, m2 storage devices)
 Run it as administrator, select the disk and in this field enter any value in the format XXXX-XXXX
 
-![Image](https://github.com/user-attachments/assets/f760b913-0d30-4d26-8b21-f3964447d580)
+![Снимок экрана 2025-06-18 140951](https://github.com/user-attachments/assets/e015e543-707d-4957-be3a-b5d492a900b2)
+
 
 
 We do these actions with all our disks.

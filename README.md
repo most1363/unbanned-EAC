@@ -10,14 +10,20 @@ So let's get started, first of all we will change the IP, to do this we simply r
 Install and open TMAC
 check the box next to Use "02" as first octet of MAC address
 ![Image](https://github.com/user-attachments/assets/fc66c9c8-39e9-4052-b5d7-00ddae5b4b56)
+
+
 Click on Random MAC address
 ![Image](https://github.com/user-attachments/assets/0a8dda6e-b4f1-402d-a066-5c593275f096)
+
+
 And click Change Now!
 ![Image](https://github.com/user-attachments/assets/36a4aa1a-af47-4960-b719-aa101b937abe)
 And if you did everything correctly, then you will see this window!: MAC addres was changed successfully
+
+
 ![Image](https://github.com/user-attachments/assets/a25e18bb-ecb8-463a-8805-c6650ab27254)
 
-3. Change HWID
+4. Change HWID
 The next thing we will do is change our HWID using the HardDiskSerialNumberChanger program
 (suitable for all types of HDD, SSD, m2 storage devices)
 Run it as administrator, select the disk and in this field enter any value in the format XXXX-XXXX

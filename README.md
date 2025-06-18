@@ -1,4 +1,5 @@
 # unbanned-EAC
+![Image](https://github.com/user-attachments/assets/906307e0-dd8a-4ca4-bcb0-881a15431b8f)
 Bypass hard ban (by hardware)
 Guide on how to remove a hardware ban in almost any game
 

@@ -1,0 +1,16 @@
+ID-Blaster Plus v2.0 License Agreement
+
+
+Disclaimer of Warranty: THIS PRODUCT IS PROVIDED FREE OF CHARGE, AND, THEREFORE, ON AN 'AS IS' BASIS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, OR FOR ANY SPECIFIC PURPOSE, INCLUDING WITHOUT LIMITATION THE WARRANTIES THAT IT IS FREE OF DEFECTS, ABLE TO OPERATE ON AN UNINTERRUPTED BASIS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. While every effort has been made to ensure the proper and correct operation of this program, you agree (by using/installing it) that you will not hold the author, anyone or any business related to the author, or any distributors responsible for any problems or damages occuring from the use of this program. THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THE LICENSE AGREEMENT. NO USE OF THE PRODUCT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER. 
+
+
+Restrictions: Without the author's prior written consent, Licensee may not: 
+(1) modify or create any derivative works of the Product;
+(2) decompile, disassemble, reverse engineer, or otherwise attempt to derive the source code for the Product (except to the extent applicable laws specifically prohibit such restriction)
+(3) sell the ID-Blaster Plus software, or this license, in any way
+(4) remove or alter any trademark, logo, copyright or other proprietary notices, legends, symbols or labels in the Product
+
+
+By using ID-Blaster Plus, and/or by clicking the "Yes" button to install ID-Blaster Plus, you agree to be legally bound by the statements located above and below.
+
+ID-Blaster Plus is released as freeware. This means you may make copies of the software for backup purposes, give the software to friends, or mirror it on your own site IF AND ONLY IF ALL FILES REMAIN UNCHANGED AND INTACT, AND NO FILES ARE ADDED. If you do wish to mirror this program, please leave a post in one of the ID-Blaster Plus threads at www.wilderssecurity.com . You may NOT include this program on any compilation mediums where you charge more than the cost of the medium it is included on (i.e. you may not charge for this freeware, but you may recoup the cost of the CD-ROM or other media it is placed on). Again, you must keep all files intact and unchanged, and you must add no files to this distribution.

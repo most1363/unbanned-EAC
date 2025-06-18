@@ -9,10 +9,12 @@ So let's get started, first of all we will change the IP, to do this we simply r
 2. Change MAC address
 Install and open TMAC
 check the box next to Use "02" as first octet of MAC address
+
 ![Image](https://github.com/user-attachments/assets/fc66c9c8-39e9-4052-b5d7-00ddae5b4b56)
 
 
 Click on Random MAC address
+
 ![Image](https://github.com/user-attachments/assets/0a8dda6e-b4f1-402d-a066-5c593275f096)
 
 
